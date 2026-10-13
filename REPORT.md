@@ -88,8 +88,3 @@ The methods agree because their feature data and mathematical objective match. T
 - The final test covers one three-month period. Performance across later years or other cities is unknown. More historical years and repeated chronological evaluations would be needed to assess stability. Missing recorded hours also limit what daily totals mean; the dashboard sums only observed hours.
 - The regression gives point estimates rather than an inventory guarantee. A real deployment would need an uncertainty estimate and a decision rule tied to the cost of insufficient versus excess stock.
 
-## Generative AI use disclosure
-
-I used OpenAI Codex to set up the repository and environment, download and check the dataset, implement the three models and shared preprocessing, save/load artifacts, build plots and the Gradio dashboard, and write verification tests. I supplied the business idea, chose calendar-only inputs and chronological evaluation, and prioritized large prediction errors. Codex polished my original wording.
-
-I also requested a draft explanation of the results and limitations. That AI-assisted text is explicitly marked above. The assignment requires my report analysis and conclusions to be my own, so those draft sections need my review and revision into conclusions I can independently explain before submission. This draft does not claim that the AI-generated interpretation was written independently by me.
